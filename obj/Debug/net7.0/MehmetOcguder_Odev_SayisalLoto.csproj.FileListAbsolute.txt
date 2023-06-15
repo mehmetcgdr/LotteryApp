@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\bin\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.exe
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\bin\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.deps.json
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\bin\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.runtimeconfig.json
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\bin\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.dll
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\bin\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.pdb
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.dll
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\refint\MehmetOcguder_Odev_SayisalLoto.dll
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.pdb
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\MehmetOcguder_Odev_SayisalLoto.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\MehmetOcguder_Odev_SayisalLoto\obj\Debug\net7.0\ref\MehmetOcguder_Odev_SayisalLoto.dll
